@@ -1,3 +1,7 @@
+## Bleap Setup
+1. `docker-compose up`
+2. Proxy (Node + Bundler service) available on http://localhost:8545
+
 # ERC-4337 Devnet
 
 A simple Docker setup to deploy ERC-4337 infrastructure on your local dev environment.
