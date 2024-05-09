@@ -1,6 +1,7 @@
 ## Bleap Setup
 1. `docker-compose up`
 2. Proxy (Node + Bundler service) available on http://localhost:8545
+3. Test address mnemonic is: `junk junk junk junk junk junk junk junk junk junk junk test`
 
 # ERC-4337 Devnet
 
